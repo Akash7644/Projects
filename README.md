@@ -78,7 +78,8 @@ Leaf-Classification-ML/
 
 ###  Validation Accuracy
 
-![Validation Accuracy](accuracy_plot.png)
+![Validation Accuracy](Images/accuracy_plot.png)
+
 
 * Final Accuracy: **~90%**
 * Smooth convergence over 35 epochs
@@ -88,7 +89,7 @@ Leaf-Classification-ML/
 
 ###  Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Images/confusion_matrix.png)
 
 * Strong diagonal → high accuracy
 * Minor confusion between visually similar leaves
